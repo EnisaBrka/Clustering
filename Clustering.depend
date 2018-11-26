@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1373035672 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\element.cpp
+	"Element.h"
+
+1373042899 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\element.h
+
+1373222398 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Skup.h"
+
+1373224806 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\skup.h
+	<vector>
+	"Udaljenost.h"
+
+1373222292 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\skup.cpp
+	"Skup.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1373222371 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\udaljenost.h
+
+1373220122 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_3\clustering\udaljenost.cpp
+	"Udaljenost.h"
+	<iostream>
+
+1373222398 source:d:\enisa\projects\2_clustering\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Skup.h"
+
+1373224806 d:\enisa\projects\2_clustering\skup.h
+	<vector>
+	"Udaljenost.h"
+
+1373222371 d:\enisa\projects\2_clustering\udaljenost.h
+
+1373224756 source:d:\enisa\projects\2_clustering\skup.cpp
+	"Skup.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1373220122 source:d:\enisa\projects\2_clustering\udaljenost.cpp
+	"Udaljenost.h"
+	<iostream>
+
